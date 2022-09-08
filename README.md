@@ -1,2 +1,2 @@
 # canada-per-capita-income
-Simple linear regression model
+Linear regression model with single variable input used to predict Canada's per capita income in 2023.
